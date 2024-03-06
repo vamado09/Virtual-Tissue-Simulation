@@ -44,7 +44,7 @@
         ]
     },
     {
-        "heading": "Open-Source Data Curation Platform: **[Argilla: Data Curation for",
+        "heading": "Argilla: Data Curation for NLP Models",
         "content": [
             "Focus: NLP Tasks",
             "Open Source: Operates under Apache-2.0 license. Highly compatible",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "heading": "Open-Source Data Curation Platform: Lightly.AI: Optimizing Image",
+        "heading": "Lightly.AI: Optimizing Image Datasets",
         "content": [
             "Focus: Supervised learning for image datasets.",
             "Open Source: Operates under the MIT license, focusing on",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "heading": "Open-Source Data Curation Platform: Voxel51(FiftyOne): Enhancing",
+        "heading": "Voxel51(FiftyOne): Enhancing Video and Image Curation",
         "content": [
             "Focus: Computer Vision models.",
             "Open Source: Licensed under Apache-2.0, specializing in image data",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "heading": "Open-Source Data Curation Platform: Snorkel.AI: Programmatic",
+        "heading": "Snorkel.AI: Programmatic Labelling with Weak Supervision",
         "content": [
             "Focus: Rapid training data generation using weak supervision and",
             "Open-Source: Licensed under Apache-2.0.",
