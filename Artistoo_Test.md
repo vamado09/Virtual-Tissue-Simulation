@@ -1,3 +1,4 @@
+---
 **What is Artistoo?**
 
 Artistoo (Artificial Tissue Toolbox) is a framework that lets you build
@@ -23,7 +24,7 @@ elements, making it user-friendly for non-programmers.
 
 **What are CPM and CA models?**
 
--   CPM (Cellular Potts Model): Developed in 1980s, CPM is used for
+-   **CPM (Cellular Potts Model)**: Developed in 1980s, CPM is used for
     simulating the collective behavior of cellular structures. It's
     particularly effective for modeling the morphology (the study of the
     forms of things) and dynamics of tissues, cell sorting, and cell
@@ -33,7 +34,7 @@ elements, making it user-friendly for non-programmers.
     or 3D, where each pixel has an "identity" linking it to a specific
     cell or to the empty background.
 
--   CA (Cellular Automation): Originating in the 1940s by John Neumann,
+-   **CA (Cellular Automation)**: Originating in the 1940s by John Neumann,
     CA is a simpler model where space is divided into discrete cells,
     each of which can be in one of a finite number of states. The state
     of each cell changes over time based on a set of rules that depend
@@ -98,11 +99,11 @@ Computational modelling research involves two important, but distinct
 categories of researchers that tend to have different types of
 expertise.
 
--   Builders: The scientists designing the models and performing the
+-   **Builders**: The scientists designing the models and performing the
     research; these are typically computational biologists with at least
     some basic programming skills. 
 
--   Viewers: members of the broader research community who should be
+-   **Viewers**: members of the broader research community who should be
     able to access and understand these models once they are built; this
     group may also include biologists and students without programming
     expertise.
@@ -205,26 +206,26 @@ for future developers to extend it with custom code.
 
 **Some examples of Modeling Approaches (Easily Explain):**
 
--   CPM (Cellular Potts Model): A computational model used to simulate
+-   **CPM (Cellular Potts Model)**: A computational model used to simulate
     how cells grow and interact with each other. It\'s like having cells
     on a grid, where each cell can spread or move based on certain
     rules.
 
--   CA (Cellular Automaton): A model where space is divided into cells
+-   **CA (Cellular Automaton)**: A model where space is divided into cells
     in a grid. Each cell changes its state (like on/off) based on the
     state of neighboring cells, following simple rules. It\'s often used
     for simulating patterns or simple biological processes.
 
--   ODEs (Ordinary Differential Equations): Mathematical equations used
+-   **ODEs (Ordinary Differential Equations)**: Mathematical equations used
     to describe how things change over time. They\'re used in
     simulations to model continuous processes like chemical reactions or
     population dynamics.
 
--   Finite Elements: A method for solving complex equations by breaking
+-   **Finite Elements**: A method for solving complex equations by breaking
     down a large problem (like stress in a material) into smaller,
     simpler parts (finite elements), and then solving these parts.
 
--   Particle-Based: In this type of modeling, individual elements,
+-   **Particle-Based**: In this type of modeling, individual elements,
     referred to as particles, interact with each other following
     physical laws. This approach allows for simulating systems where the
     position and interaction of each particle are important, such as in
@@ -233,7 +234,7 @@ for future developers to extend it with custom code.
     variety of phenomena, from the behavior of atoms and molecules to
     the movement of cells in a biological system.
 
--   Agent Based: A model where individual entities (agents) like cells
+-   **Agent Based**: A model where individual entities (agents) like cells
     or animals are simulated. Each agent behaves independently according
     to set rules, allowing for complex systems and interactions to be
     studied.
