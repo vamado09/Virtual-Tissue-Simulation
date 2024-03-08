@@ -29,3 +29,6 @@ contribute their insights, ask questions, and engage in discussions.
 This way, our digital community becomes a dynamic space where knowledge
 about VTS is not just consumed but also created and enriched by its
 members.
+
+---
+![Alt Text](https://raw.githubusercontent.com/vamado09/Virtual-Tissue-Simulation/main/molecule.png) 
