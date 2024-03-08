@@ -1,21 +1,5 @@
 **Institution: Indiana University Bloomington**
 
-**Members:**
-
--   **Martin Berth**
-
--   **Braxton Ratekin**
-
--   **John Holt**
-
--   **Daniel Perez**
-
--   **John Okulski**
-
--   **Kyle Stirling**
-
--   **Vicente De Leon**
-
 **VTS: Virtual Tissue Simulation.**
 
 **Our Mission:**
