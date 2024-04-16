@@ -10,6 +10,8 @@ Streamlit to Hugo Transition: Initially built with Streamlit to enable real-time
 
 Advanced Features: The original Streamlit application integrated cutting-edge functionalities, including an OpenAI-powered chatbot for interactive user engagement and a text summarizer tailored for condensing scientific papers, facilitating a more efficient dissemination of complex research insights.
 
+Neo4j Database Integration: A Neo4j graph database was implemented to link individuals associated with each virtual tissue simulation package, facilitating a networked view of contributions and collaborations within the project.
+
 ## Project Evolution:
 This repository not only reflects the technological pivots made during the project but also embodies our commitment to adapting and employing the best tools available to communicate and visualize scientific data effectively. By moving from Streamlit to Hugo, we enhanced the site's stability and user experience, making the research accessible to a broader audience without sacrificing the interactive elements that define modern web applications.
 
